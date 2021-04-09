@@ -5,8 +5,10 @@
     "todomvc-app-css": "^2.0.1"
   },
   "devDependencies": {
+    "cssnano": "^4.1.11",
     "jasmine": "^3.7.0",
-    "jasmine-core": "^2.0.0"
+    "jasmine-core": "^2.0.0",
+    "parcel-bundler": "^1.12.4"
   },
   "name": "todo-list-app",
   "version": "1.0.0",
